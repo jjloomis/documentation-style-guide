@@ -21,7 +21,7 @@ A style guide for the documentation I create using [GitBook](https://www.gitbook
   * Capitalize clickable commands (**Save**, **Publish**, **Update**, etc.)
   * File types should appear in all caps (WAV, MP4, etc.)
   * If a button name appears in all caps in the application, use normal capitalization in the documentation
-  * Default to not capitalizing (capitalize when or more of the above are true)
+  * Default to not capitalizing (capitalize when one or more of the above are true)
 
 ## Bold text
 
